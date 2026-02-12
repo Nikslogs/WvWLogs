@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260212-184412-78dg",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-12T08:44:12.000Z",
+    "dateEnd": "2026-02-12T11:03:53.000Z",
+    "dateLabel": "2/12/2026, 6:44:12 PM - 2/12/2026, 9:03:53 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260212-184412-78dg",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 18,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 27
+    }
+  }
+]
