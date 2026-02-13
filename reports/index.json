@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260210-134852-2yfm",
+    "title": "Nico Da Illustrious",
+    "commanders": [
+      "Nico Da Illustrious"
+    ],
+    "dateStart": "2026-02-10T03:48:52.000Z",
+    "dateEnd": "2026-02-10T05:00:39.000Z",
+    "dateLabel": "2/10/2026, 1:48:52 PM - 2/10/2026, 3:00:39 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260210-134852-2yfm",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 42,
+      "avgEnemySize": 43
+    }
+  },
+  {
     "id": "20260211-194419-s573",
     "title": "Markus Headcrusher, Markus Is One, Markus Lifetaker",
     "commanders": [
