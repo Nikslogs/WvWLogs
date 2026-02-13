@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260213-130939-wxa7",
+    "title": "Nico Da Illustrious",
+    "commanders": [
+      "Nico Da Illustrious"
+    ],
+    "dateStart": "2026-02-13T03:09:39.000Z",
+    "dateEnd": "2026-02-13T05:55:29.000Z",
+    "dateLabel": "2/13/2026, 1:09:39 PM - 2/13/2026, 3:55:29 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260213-130939-wxa7",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 50,
+      "avgEnemySize": 37
+    }
+  },
+  {
     "id": "20260210-134852-2yfm",
     "title": "Nico Da Illustrious",
     "commanders": [
