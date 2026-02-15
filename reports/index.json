@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260215-185233-sl0t",
+    "title": "Napalm Phantasm",
+    "commanders": [
+      "Napalm Phantasm"
+    ],
+    "dateStart": "2026-02-15T08:52:33.000Z",
+    "dateEnd": "2026-02-15T11:08:45.000Z",
+    "dateLabel": "2/15/2026, 6:52:33 PM - 2/15/2026, 9:08:45 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260215-185233-sl0t",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 38,
+      "avgEnemySize": 31
+    }
+  },
+  {
     "id": "20260215-123117-1zzv",
     "title": "Atros Shroudcowl",
     "commanders": [
