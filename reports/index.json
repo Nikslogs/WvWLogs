@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260215-123117-1zzv",
+    "title": "Atros Shroudcowl",
+    "commanders": [
+      "Atros Shroudcowl"
+    ],
+    "dateStart": "2026-02-15T02:31:17.000Z",
+    "dateEnd": "2026-02-15T03:13:05.000Z",
+    "dateLabel": "2/15/2026, 12:31:17 PM - 2/15/2026, 1:13:05 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260215-123117-1zzv",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 14,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 46
+    }
+  },
+  {
     "id": "20260213-130939-wxa7",
     "title": "Nico Da Illustrious",
     "commanders": [
