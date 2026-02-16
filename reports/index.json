@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260216-192220-e07p",
+    "title": "Willow Stormhunter",
+    "commanders": [
+      "Willow Stormhunter"
+    ],
+    "dateStart": "2026-02-16T09:22:20.000Z",
+    "dateEnd": "2026-02-16T10:55:44.000Z",
+    "dateLabel": "2/16/2026, 7:22:20 PM - 2/16/2026, 8:55:44 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260216-192220-e07p",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 27
+    }
+  },
+  {
     "id": "20260215-185233-sl0t",
     "title": "Napalm Phantasm",
     "commanders": [
