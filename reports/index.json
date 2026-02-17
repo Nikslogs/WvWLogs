@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260217-191833-isri",
+    "title": "Markus Is One",
+    "commanders": [
+      "Markus Is One"
+    ],
+    "dateStart": "2026-02-17T09:18:33.000Z",
+    "dateEnd": "2026-02-17T11:24:35.000Z",
+    "dateLabel": "2/17/2026, 7:18:33 PM - 2/17/2026, 9:24:35 PM",
+    "url": "https://Nikslogs.github.io/WvWLogs/?report=20260217-191833-isri",
+    "summary": {
+      "borderlandsPct": 0.03571428571428571,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 27,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 43,
+      "avgEnemySize": 29
+    }
+  },
+  {
     "id": "20260217-133443-oae1",
     "title": "Nico Da Illustrious",
     "commanders": [
