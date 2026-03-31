@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260331-140439-akrw",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-03-31T04:04:39.000Z",
+      "dateEnd": "2026-03-31T05:10:01.000Z",
+      "dateLabel": "3/31/2026, 2:04:39 PM - 3/31/2026, 3:10:01 PM",
+      "url": "https://Nikslogs.github.io/WvWLogs/?report=20260331-140439-akrw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260330-190445-r328",
       "title": "Willow Stormhunter",
       "commanders": [
