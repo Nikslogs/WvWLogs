@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260402-194751-7yhm",
+      "title": "Willow Stormhunter",
+      "commanders": [
+        "Willow Stormhunter"
+      ],
+      "dateStart": "2026-04-02T09:47:51.000Z",
+      "dateEnd": "2026-04-02T11:09:00.000Z",
+      "dateLabel": "4/2/2026, 7:47:51 PM - 4/2/2026, 9:09:00 PM",
+      "url": "https://Nikslogs.github.io/WvWLogs/?report=20260402-194751-7yhm",
+      "summary": {
+        "borderlandsPct": 0.8181818181818182,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260402-130928-djzj",
       "title": "Nico Da Illustrious",
       "commanders": [
