@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260402-130928-djzj",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-04-02T03:09:28.000Z",
+      "dateEnd": "2026-04-02T04:56:29.000Z",
+      "dateLabel": "4/2/2026, 1:09:28 PM - 4/2/2026, 2:56:29 PM",
+      "url": "https://Nikslogs.github.io/WvWLogs/?report=20260402-130928-djzj",
+      "summary": {
+        "borderlandsPct": 0.42857142857142855,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260401-192049-2sn6",
       "title": "Markus Is One",
       "commanders": [
