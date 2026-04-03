@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-122744-tuzq",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-04-03T02:27:44.000Z",
+      "dateEnd": "2026-04-03T05:34:10.000Z",
+      "dateLabel": "4/3/2026, 12:27:44 PM - 4/3/2026, 3:34:10 PM",
+      "url": "https://Nikslogs.github.io/WvWLogs/?report=20260403-122744-tuzq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 56,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260403-002802-shbu",
       "title": "Alpha Thug, Nico Da Illustrious",
       "commanders": [
