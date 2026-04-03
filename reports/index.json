@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-002802-shbu",
+      "title": "Alpha Thug, Nico Da Illustrious",
+      "commanders": [
+        "Alpha Thug",
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-04-02T14:28:02.000Z",
+      "dateEnd": "2026-04-03T05:34:10.000Z",
+      "dateLabel": "4/3/2026, 12:28:02 AM - 4/3/2026, 3:34:10 PM",
+      "url": "https://Nikslogs.github.io/WvWLogs/?report=20260403-002802-shbu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 55,
+        "avgEnemySize": 7
+      }
+    },
+    {
       "id": "20260402-194751-7yhm",
       "title": "Willow Stormhunter",
       "commanders": [
