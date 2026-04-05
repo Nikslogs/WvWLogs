@@ -3,6 +3,44 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260405-235834-q1og",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-04-05T13:58:34.000Z",
+      "dateEnd": "2026-04-05T15:13:16.000Z",
+      "dateLabel": "4/5/2026, 11:58:34 PM - 4/6/2026, 1:13:16 AM",
+      "url": "https://Nikslogs.github.io/WvWLogs/?report=20260405-235834-q1og",
+      "summary": {
+        "borderlandsPct": 0.7777777777777778,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260405-201616-vr6f",
       "title": "Napalm Phantasm",
       "commanders": [
